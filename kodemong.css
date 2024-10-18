@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    width: 0px;
+    box-sizing: border-box;
+}
+.headding{
+    display: flex;
+    width: 5px;
+}
+.kodemong{
+    margin-left: 100px;
+    
+}
+.head{
+    margin-bottom: 20px;
+}
+.main head{
+    padding: 10px;
+    margin: 50px;
+    
+}
